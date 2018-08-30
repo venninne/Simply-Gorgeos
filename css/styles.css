@@ -49,9 +49,13 @@ body{
 
 .banner-title {
   font-size: 35px;
-  font-weight: bold
-  color: white
-  ;
+  font-weight: bold;
+  color: white;
 }
 #GeneralInformation{
-  <p class="groove">A groove border.</p>}
+}
+
+.main-page-container {
+  background: rgba(10, 10, 10, 0.7);
+  color:white;
+}
